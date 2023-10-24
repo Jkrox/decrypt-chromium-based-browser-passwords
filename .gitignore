@@ -1,0 +1,5 @@
+__pycache__/decrypt_chrome_password.cpython-38.pyc
+venv
+output
+*.exe
+*.csv
